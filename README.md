@@ -1,4 +1,4 @@
-# nullwood-noise-generator
+# Nullwood Noise Generator
 
 An ambient noise generator inspired by the **Nullwood** universe.
 Create relaxing or eerie soundscapes with customizable environmental elements.
